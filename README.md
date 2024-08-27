@@ -7,6 +7,7 @@
 #### 💻 Usually using Java language for programmming
 
 ![MinSoo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eksploiter&show_icons=true&theme=dark&bg_color=0d1117)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
 
 ### 🧑🏻‍💻 Tech Stack 
 <div align="left">
