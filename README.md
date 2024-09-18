@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
     <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitForWindows-80B3FF?style=flat-square&logo=GitForWindows&logoColor=white"/>
 </div>
 
 <div align="left">
