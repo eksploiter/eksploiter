@@ -19,7 +19,6 @@
 - 2024.03.04 ~ 06.14 : Capstone Design for the 1nd semester of the 4rd grade / HiRou
 - 2024.07.13 ~ 08.04 : 조코딩 AI Project with Google / Tag Doctor
 - 2024.10.04 ~ 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업 (해초롬)
-<br>
 
 ---
 
