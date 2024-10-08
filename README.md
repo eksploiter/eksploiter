@@ -9,6 +9,13 @@
 ![MinSoo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eksploiter&show_icons=true&theme=dark&bg_color=0d1117)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksploiter&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)-->
+<br>
+
+### experience
+
+- 2023.09 ~ 12 : Capstone Design for the 2nd semester of the 3rd grade / Let's walk!
+- 2024.03 ~ 06 : Capstone Design for the 1nd semester of the 4rd grade / HiRou
+- 2024.08 : Samsung Electronics Device Solutions People Team Software Engineer
 
 ### 🧑🏻‍💻 Tech Stack 
 <div align="left">
