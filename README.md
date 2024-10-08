@@ -4,18 +4,24 @@
 &hide_border=true-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feksploiter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
+
+---
+
 #### 💻 Usually using Java & Kotlin language for programmming
 
 ![MinSoo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eksploiter&show_icons=true&theme=dark&bg_color=0d1117)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksploiter&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)-->
+
+### 💡 Experience
+
+- 2023.09.01 ~ 12.23 : Capstone Design for the 2nd semester of the 3rd grade / 건너가유
+- 2024.03.04 ~ 06.14 : Capstone Design for the 1nd semester of the 4rd grade / HiRou
+- 2024.07.13 ~ 08.04 : 조코딩 AI Project with Google / Tag Doctor
+- 2024.10.04 ~ 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업 (해초롬)
 <br>
 
-### experience
-
-- 2023.09 ~ 12 : Capstone Design for the 2nd semester of the 3rd grade / Let's walk!
-- 2024.03 ~ 06 : Capstone Design for the 1nd semester of the 4rd grade / HiRou
-- 2024.08 : Samsung Electronics Device Solutions People Team Software Engineer
+---
 
 ### 🧑🏻‍💻 Tech Stack 
 <div align="left">
