@@ -25,11 +25,21 @@
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
+
+<!--### :octocat: My GitHub Stats-->
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanx-To-Dev-Minsoo&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
+<img src="https://img.shields.io/badge/MaterialDesign-757575?style=flat-square&logo=MaterialDesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/>
 
 <div align="left">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -40,11 +50,4 @@
     <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/>
 </div>
 
-<!--### :octocat: My GitHub Stats-->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanx-To-Dev-Minsoo&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
-<img src="https://img.shields.io/badge/MaterialDesign-757575?style=flat-square&logo=MaterialDesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 -->
