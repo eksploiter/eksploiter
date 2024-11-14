@@ -9,15 +9,6 @@
 
 ![eksploiter's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eksploiter&show_icons=true&theme=dark&bg_color=0d1117)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksploiter&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)-->
-
- <!--### 💡 Experience
-
-- 2023.09.01 - 12.23 : 캡스톤 디자인 경진대회 / 건너가유 (스마트 횡단보도 시스템) 🥉
-- 2024.03.04 - 06.14 : 캡스톤 디자인 경진대회 / 하이루 (하루 2L 루틴) 🥈
-- 2024.06.17 - 07.17 : James Dyson Award / HiRou
-- 2024.07.13 - 08.04 : ‎Gemini AI Hackathon with Google / Tag Doctor
-- 2024.10.04 - 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업 (해초롬)-->
 
 ### 🧑🏻‍💻 Tech Stack 
 <div align="left">
@@ -29,6 +20,16 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eksploiter&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)-->
+
+ <!--### 💡 Experience
+
+- 2023.09.01 - 12.23 : 캡스톤 디자인 경진대회 / 건너가유 (스마트 횡단보도 시스템) 🥉
+- 2024.03.04 - 06.14 : 캡스톤 디자인 경진대회 / 하이루 (하루 2L 루틴) 🥈
+- 2024.06.17 - 07.17 : James Dyson Award / HiRou
+- 2024.07.13 - 08.04 : ‎Gemini AI Hackathon with Google / Tag Doctor
+- 2024.10.04 - 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업 (해초롬)-->
 
 <!--### :octocat: My GitHub Stats-->
 <!--
