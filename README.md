@@ -11,10 +11,15 @@
 
 ### 💡 Experience
 
-- 2023.09.01 - 12.23 : 캡스톤 디자인 경진대회 / 건너가유 (스마트 횡단보도 시스템)
-- 2024.03.04 - 06.14 : 캡스톤 디자인 경진대회 / 하이루 (하루 2L 루틴)
-- 2024.07.13 - 08.04 : ‎Gemini AI Hackathon with Google / Tag Doctor
-- 2024.10.04 - 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업
+- 2023.09.01 - 12.23 : 캡스톤 디자인 경진대회 / 건너가유 (스마트 횡단보도 시스템) [[링크1]]
+- 2024.03.04 - 06.14 : 캡스톤 디자인 경진대회 / 하이루 (하루 2L 루틴) [[링크2]]
+- 2024.07.13 - 08.04 : ‎Gemini AI Hackathon with Google / Tag Doctor [[링크3]]
+- 2024.10.04 - 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업 [[링크4]]
+
+[링크1]: https://github.com/smart-crosswalk
+[링크2]: https://github.com/hi-rou
+[링크3]: https://github.com/Tag-Doctor
+[링크4]: https://github.com/cosimba
 
 ### 🧑🏻‍💻 Tech Stack 
 <div align="left">
