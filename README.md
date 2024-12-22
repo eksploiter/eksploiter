@@ -11,7 +11,7 @@
 
 ### Career
 
-- 2025.01.07 ~ : Samsung Software Academy For Youth 13st
+- 2025.01.07 ~ : Samsung Software Academy For Youth 13th
 
 ### Experience
 
