@@ -9,7 +9,11 @@
 ![Kim Minsoo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eksploiter&show_icons=true&theme=dark&bg_color=0d1117)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
 
-### 💡 Experience
+### Career
+
+- 2025.01.07 ~ : Samsung Software Academy For Youth 13st
+
+### Experience
 
 - 2023.09.01 - 12.23 : 캡스톤 디자인 경진대회 / 건너가유 (스마트 횡단보도 시스템) [[건너가유]]
 - 2024.03.04 - 06.14 : 캡스톤 디자인 경진대회 / 하이루 (하루 2L 루틴) [[하이루]]
