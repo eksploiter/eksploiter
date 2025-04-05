@@ -1,9 +1,6 @@
 <!--## 👋🏻 Welcome my github profile !
 - 🧑🏻‍🏫   Department of EE (Electronic Engineering)
 &hide_border=true🥉🥈-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feksploiter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-
 #### 💻 Usually using Java language for programmming
 
 ![Kim Minsoo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=eksploiter&show_icons=true&theme=dark&bg_color=0d1117)
@@ -12,7 +9,7 @@
 ### Career
 
 - 2025.01.07 ~ : Samsung Software Academy For Youth 13th
-<!-- 2019.03 ~ : Department of EE (Electronic Engineering)-->
+- 2019.03 - 2025.02 : Department of EE (Electronic Engineering)
 
 ### Experience
 
