@@ -5,3 +5,11 @@
 
 - 2025.01.07 ~ : Samsung Software Academy For Youth 13th
 - 2019.03 - 2025.02 : Department of EE (Electronic Engineering)
+
+### Projects
+
+|프로젝트명|레포지토리|수상|
+|---|---|---|
+|**2025.09** SSAFY 금융 특화 프로젝트|<a href="https://github.com/lRUMl"><img src="https://img.shields.io/badge/이룸이(IRUMI)-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
+|**2025.07** SSAFY 공통 프로젝트|<a href="https://github.com/PlNG-ME"><img src="https://img.shields.io/badge/핑미(PingMe)-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆우수상|
+|**2024.10** DIVE 2024 해커톤 Track2|<a href="https://github.com/cosimba"><img src="https://img.shields.io/badge/해초롬-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
