@@ -3,6 +3,7 @@
 
 ### Career
 
+- 2026.02 ~ : 
 - 2025.01 - 2025.12 : Samsung Software Academy For Youth 13th
 - 2019.03 - 2025.02 : Department of EE (Electronic Engineering)
 
