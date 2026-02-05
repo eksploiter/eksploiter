@@ -6,7 +6,7 @@
 ### Career
 
 - 2025.01 - 2025.12 : Samsung Software Academy For Youth 13th
-- 2019.03 - 2025.02 : Department of EE (Electronic Engineering)
+- 2019.03 - 2025.02 : A bachelor's degree in Electronic Engineering
 
 ### Projects
 
