@@ -8,7 +8,6 @@
 
 > Building sustainable products that scale with clarity.
 
-<br />
 
 ### Career
 
