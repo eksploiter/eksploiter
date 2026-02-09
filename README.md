@@ -5,6 +5,7 @@
 
 ### Career
 
+- 2026.02 ~ : INNOCEAN Global App Service Planning
 - 2025.01 - 2025.12 : Samsung Software Academy For Youth 13th
 - 2019.03 - 2025.02 : A bachelor's degree in Electronic Engineering
 
