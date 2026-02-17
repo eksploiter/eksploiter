@@ -6,16 +6,16 @@
 
 # MinSoo Kim (김민수)
 
-### **Product management**
+### **Product Management**
 
-> Building sustainable products that scale with clarity.
+> Planning and evolving global mobile app services with clarity and impact.
 
 
 ### Career
 
-- 2026.02 - Present : **INNOCEAN** Global App Service Planning
-- 2025.01 - 2025.12 : **Samsung Software Academy For Youth** 13th
-- 2019.03 - 2025.02 : A bachelor's degree in **Electronic Engineering**
+- 2026.02 - Present : **INNOCEAN** (Global App Service Planning)
+- 2025.01 - 2025.12 : **SSAFY** (Java Class, 13th)
+- 2019.03 - 2025.02 : **Electronic Engineering** (A bachelor's degree)
 
 <!--
 ### Projects
