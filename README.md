@@ -1,8 +1,8 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eksploiter)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
 - 2026.02 ~ :
--->
-<a href="https://diamond-double-3fe.notion.site/Portfolio-Minsoo-Kim-1c71e80933bc81d7a209e9de2544c2e1?source=copy_link"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+
+<a href="https://diamond-double-3fe.notion.site/Portfolio-Minsoo-Kim-1c71e80933bc81d7a209e9de2544c2e1?source=copy_link"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
 
 # MinSoo Kim (김민수)
 
