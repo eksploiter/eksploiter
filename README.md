@@ -4,8 +4,6 @@
 
 <a href="https://diamond-double-3fe.notion.site/Portfolio-Minsoo-Kim-1c71e80933bc81d7a209e9de2544c2e1?source=copy_link"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
 
-![](https://gh-hits.nomadcoders.workers.dev/view?username=eksploiter&cache)
-
 # MinSoo Kim (김민수)
 
 ### **Product Management**
