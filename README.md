@@ -17,6 +17,10 @@
 - 2025.01 - 2025.12 : **SSAFY** (Java Class, 13th)
 - 2019.03 - 2025.02 : **Electronic Engineering** (Bachelor's degree)
 
+
+### Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
 <!--
 ### Projects
 
