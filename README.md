@@ -15,7 +15,7 @@
 
 - 2026.02 - Present : **INNOCEAN** (Global App Service Planning)
 - 2025.01 - 2025.12 : **SSAFY** (Java Class 13, 13th)
-- 2019.03 - 2025.02 : **Electronic Engineering** (A bachelor's degree)
+- 2019.03 - 2025.02 : **Electronic Engineering** (Bachelor's degree)
 
 <!--
 ### Projects
