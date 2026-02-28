@@ -13,7 +13,7 @@
 
 ### Career
 
-- 2026.02 - Present : **INNOCEAN** (Global App Service Planning)
+- 2026.02 - Present : **INNOCEAN** (Digital Platform Team 1 - Global App Service Planning)
 - 2025.01 - 2025.12 : **SSAFY** (Java Class, 13th)
 - 2019.03 - 2025.02 : **Electronic Engineering** (Bachelor's degree)
 
