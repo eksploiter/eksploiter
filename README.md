@@ -6,7 +6,7 @@
 
 # MinSoo Kim (김민수)
 
-### **Product Management**
+### **Global App Service Planning**
 
 > Planning and evolving global mobile app services with clarity and impact.
 
