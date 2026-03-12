@@ -13,7 +13,7 @@
 
 ### Career
 
-- 2026.02 - Present : **INNOCEAN** (Digital Platform Team - Hyundai CCI Service planning Cell)
+- 2026.02 - Present : **INNOCEAN** (Digital Platform Team - Hyundai CCI PO Cell)
 - 2025.01 - 2025.12 : **SSAFY** (Java Class, 13th)
 - 2019.03 - 2025.02 : **Electronic Engineering** (Bachelor's degree)
 
