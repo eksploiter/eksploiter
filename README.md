@@ -21,6 +21,14 @@
 ### Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_510)](https://solved.ac/minsu_510/)
+
+<br>
+
+### Experience
+
+INNOCEAN : Feb 2026 - Present
+
+Hyundai, Kia, Genesis Global One App Strategy/Operations
 <!--
 ### Projects
 
